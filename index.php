@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Git/girug</h1>
+    <h2>titular del status</h2>
 </body>
 </html>
