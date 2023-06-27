@@ -6,6 +6,6 @@
     <title>Git/Github</title>
 </head>
 <body>
-    <h1>Git/Github</h1>
+    <h1>Git/girug</h1>
 </body>
 </html>
